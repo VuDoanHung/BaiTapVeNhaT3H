@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\BaiTapVeNhaT3H\obj\Debug\Bai1_QuanLyThongTinSach.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\BaiTapVeNhaT3H\obj\Debug\Bai1_QuanLyThongTinSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\BaiTapVeNhaT3H\bin\Debug\BaiTapVeNhaT3H.exe.config
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\BaiTapVeNhaT3H\bin\Debug\BaiTapVeNhaT3H.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\BaiTapVeNhaT3H\bin\Debug\BaiTapVeNhaT3H.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\BaiTapVeNhaT3H\obj\Debug\BaiTapVeNhaT3H.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\BaiTapVeNhaT3H\obj\Debug\BaiTapVeNhaT3H.pdb
