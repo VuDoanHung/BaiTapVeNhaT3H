@@ -4,27 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BaiTapVeNhaT3H
+namespace Bai1_QuanLyThongTinSach
 {
     public struct Book
     {
         public string Tittle { get; set; }
-        public string Author { get; set;}
-        public DateTime YearOfPublication { get; set;}
-        public Book(string _title,string _author,DateTime _yearOfPublication)
+        public string Author { get; set; }
+        public DateTime YearOfPublication { get; set; }
+        public Book(string _title, string _author, DateTime _yearOfPublication)
         {
             Tittle = _title;
             Author = _author;
             YearOfPublication = _yearOfPublication;
         }
     }
-   
+
 }
-public enum FunctionBook
+public enum FunctionApp
 {
-    AddBook = 1,
-    ShowBook,
-    SearchBook,
+    Add = 1,
+    Show,
+    Search,
     Exit,
 
 }
+

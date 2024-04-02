@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai1_QuanLyThongTinSach\bin\Debug\Bai1_QuanLyThongTinSach.exe.config
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai1_QuanLyThongTinSach\bin\Debug\Bai1_QuanLyThongTinSach.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai1_QuanLyThongTinSach\bin\Debug\Bai1_QuanLyThongTinSach.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai1_QuanLyThongTinSach\obj\Debug\Bai1_QuanLyThongTinSach.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai1_QuanLyThongTinSach\obj\Debug\Bai1_QuanLyThongTinSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai1_QuanLyThongTinSach\obj\Debug\Bai1_QuanLyThongTinSach.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai1_QuanLyThongTinSach\obj\Debug\Bai1_QuanLyThongTinSach.pdb

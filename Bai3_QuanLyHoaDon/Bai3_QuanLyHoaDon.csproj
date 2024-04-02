@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{94CF2E3F-9D96-4E76-8933-956FA7D40FDE}</ProjectGuid>
+    <ProjectGuid>{54C63C33-5495-4DD0-97B3-490801DD1006}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BaiTapVeNhaT3H</RootNamespace>
-    <AssemblyName>BaiTapVeNhaT3H</AssemblyName>
+    <RootNamespace>Bai3_QuanLyHoaDon</RootNamespace>
+    <AssemblyName>Bai3_QuanLyHoaDon</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Book.cs" />
+    <Compile Include="HoaDon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

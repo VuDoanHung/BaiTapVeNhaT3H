@@ -5,3 +5,10 @@ C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\obj\Debug\Bai2_Qua
 C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\obj\Debug\Bai2_QuanLyHocSinh.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\obj\Debug\Bai2_QuanLyHocSinh.exe
 C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\obj\Debug\Bai2_QuanLyHocSinh.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\bin\Debug\Bai2_QuanLyHocSinh.exe.config
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\bin\Debug\Bai2_QuanLyHocSinh.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\bin\Debug\Bai2_QuanLyHocSinh.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\obj\Debug\Bai2_QuanLyHocSinh.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\obj\Debug\Bai2_QuanLyHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\obj\Debug\Bai2_QuanLyHocSinh.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H_VuDoanHung\BaiTapVeNhaT3H\Bai2_QuanLyHocSinh\obj\Debug\Bai2_QuanLyHocSinh.pdb
