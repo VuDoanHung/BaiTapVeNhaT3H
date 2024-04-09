@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25B1925C-3A07-440C-A0FB-F6830AFB0933}|HomeWork06\\Bai1_QlySinhVien.csproj|c:\\users\\admin\\source\\repos\\baitapvenhat3h\\homework06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B1925C-3A07-440C-A0FB-F6830AFB0933}|HomeWork06\\Bai1_QlySinhVien.csproj|solutionrelative:homework06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B1925C-3A07-440C-A0FB-F6830AFB0933}|HomeWork06\\Bai1_QlySinhVien.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\homework06\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B1925C-3A07-440C-A0FB-F6830AFB0933}|HomeWork06\\Bai1_QlySinhVien.csproj|solutionrelative:homework06\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B1925C-3A07-440C-A0FB-F6830AFB0933}|HomeWork06\\Bai1_QlySinhVien.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\homework06\\collectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B1925C-3A07-440C-A0FB-F6830AFB0933}|HomeWork06\\Bai1_QlySinhVien.csproj|solutionrelative:homework06\\collectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1330C-4B29-453C-83AE-9AC9779D8898}|Bai1_QlyNhanVien\\Bai1_QlyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai1_qlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC1330C-4B29-453C-83AE-9AC9779D8898}|Bai1_QlyNhanVien\\Bai1_QlyNhanVien.csproj|solutionrelative:bai1_qlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC1330C-4B29-453C-83AE-9AC9779D8898}|Bai1_QlyNhanVien\\Bai1_QlyNhanVien.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai1_qlynhanvien\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC1330C-4B29-453C-83AE-9AC9779D8898}|Bai1_QlyNhanVien\\Bai1_QlyNhanVien.csproj|solutionrelative:bai1_qlynhanvien\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29962DC8-55A8-48BF-B3EF-D9B854455FB4}|Bai2_SwapData\\Bai2_SwapData.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai2_swapdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29962DC8-55A8-48BF-B3EF-D9B854455FB4}|Bai2_SwapData\\Bai2_SwapData.csproj|solutionrelative:bai2_swapdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29962DC8-55A8-48BF-B3EF-D9B854455FB4}|Bai2_SwapData\\Bai2_SwapData.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai2_swapdata\\swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29962DC8-55A8-48BF-B3EF-D9B854455FB4}|Bai2_SwapData\\Bai2_SwapData.csproj|solutionrelative:bai2_swapdata\\swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD4BB2-56C0-4803-B97C-FE684E477E85}|Bai1_QuanLyThongTinSach\\Bai1_QuanLyThongTinSach.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai1_quanlythongtinsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD4BB2-56C0-4803-B97C-FE684E477E85}|Bai1_QuanLyThongTinSach\\Bai1_QuanLyThongTinSach.csproj|solutionrelative:bai1_quanlythongtinsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B1925C-3A07-440C-A0FB-F6830AFB0933}|HomeWork06\\Bai1_QlySinhVien.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\homework06\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B1925C-3A07-440C-A0FB-F6830AFB0933}|HomeWork06\\Bai1_QlySinhVien.csproj|solutionrelative:homework06\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C63C33-5495-4DD0-97B3-490801DD1006}|Bai3_QuanLyHoaDon\\Bai3_QuanLyHoaDon.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai3_quanlyhoadon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C63C33-5495-4DD0-97B3-490801DD1006}|Bai3_QuanLyHoaDon\\Bai3_QuanLyHoaDon.csproj|solutionrelative:bai3_quanlyhoadon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD4BB2-56C0-4803-B97C-FE684E477E85}|Bai1_QuanLyThongTinSach\\Bai1_QuanLyThongTinSach.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai1_quanlythongtinsach\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD4BB2-56C0-4803-B97C-FE684E477E85}|Bai1_QuanLyThongTinSach\\Bai1_QuanLyThongTinSach.csproj|solutionrelative:bai1_quanlythongtinsach\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355FBA5C-FB32-4A5F-80BC-B8DD0DF0F223}|Bai2_QuanLyHocSinh\\Bai2_QuanLyHocSinh.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai2_quanlyhocsinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355FBA5C-FB32-4A5F-80BC-B8DD0DF0F223}|Bai2_QuanLyHocSinh\\Bai2_QuanLyHocSinh.csproj|solutionrelative:bai2_quanlyhocsinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{355FBA5C-FB32-4A5F-80BC-B8DD0DF0F223}|Bai2_QuanLyHocSinh\\Bai2_QuanLyHocSinh.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai2_quanlyhocsinh\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{355FBA5C-FB32-4A5F-80BC-B8DD0DF0F223}|Bai2_QuanLyHocSinh\\Bai2_QuanLyHocSinh.csproj|solutionrelative:bai2_quanlyhocsinh\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C63C33-5495-4DD0-97B3-490801DD1006}|Bai3_QuanLyHoaDon\\Bai3_QuanLyHoaDon.csproj|C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\bai3_quanlyhoadon\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C63C33-5495-4DD0-97B3-490801DD1006}|Bai3_QuanLyHoaDon\\Bai3_QuanLyHoaDon.csproj|solutionrelative:bai3_quanlyhoadon\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\HomeWork06\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork06\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\HomeWork06\\Program.cs",
+              "RelativeToolTip": "HomeWork06\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T04:42:10.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai1_QlyNhanVien\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1_QlyNhanVien\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai1_QlyNhanVien\\Program.cs",
+              "RelativeToolTip": "Bai1_QlyNhanVien\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:05:47.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai2_SwapData\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2_SwapData\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai2_SwapData\\Program.cs",
+              "RelativeToolTip": "Bai2_SwapData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:46:52.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\HomeWork06\\CollectionClass.cs",
+              "RelativeDocumentMoniker": "HomeWork06\\CollectionClass.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\HomeWork06\\CollectionClass.cs",
+              "RelativeToolTip": "HomeWork06\\CollectionClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:28:17.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericClass.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\HomeWork06\\GenericClass.cs",
+              "RelativeDocumentMoniker": "HomeWork06\\GenericClass.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\HomeWork06\\GenericClass.cs",
+              "RelativeToolTip": "HomeWork06\\GenericClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T07:26:32.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Swap.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai2_SwapData\\Swap.cs",
+              "RelativeDocumentMoniker": "Bai2_SwapData\\Swap.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai2_SwapData\\Swap.cs",
+              "RelativeToolTip": "Bai2_SwapData\\Swap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:47:47.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai1_QlyNhanVien\\Staff.cs",
+              "RelativeDocumentMoniker": "Bai1_QlyNhanVien\\Staff.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai1_QlyNhanVien\\Staff.cs",
+              "RelativeToolTip": "Bai1_QlyNhanVien\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T02:38:42.599Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai1_QuanLyThongTinSach\\Book.cs",
+              "RelativeDocumentMoniker": "Bai1_QuanLyThongTinSach\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai1_QuanLyThongTinSach\\Book.cs",
+              "RelativeToolTip": "Bai1_QuanLyThongTinSach\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T06:57:46.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai1_QuanLyThongTinSach\\Program.cs",
+              "RelativeDocumentMoniker": "Bai1_QuanLyThongTinSach\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai1_QuanLyThongTinSach\\Program.cs",
+              "RelativeToolTip": "Bai1_QuanLyThongTinSach\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAYwG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T14:11:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\HomeWork06\\Student.cs",
+              "RelativeDocumentMoniker": "HomeWork06\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\HomeWork06\\Student.cs",
+              "RelativeToolTip": "HomeWork06\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T06:19:10.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai3_QuanLyHoaDon\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3_QuanLyHoaDon\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai3_QuanLyHoaDon\\Program.cs",
+              "RelativeToolTip": "Bai3_QuanLyHoaDon\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:18:50.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai2_QuanLyHocSinh\\Program.cs",
+              "RelativeDocumentMoniker": "Bai2_QuanLyHocSinh\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai2_QuanLyHocSinh\\Program.cs",
+              "RelativeToolTip": "Bai2_QuanLyHocSinh\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwJ8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:18:56.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai2_QuanLyHocSinh\\Student.cs",
+              "RelativeDocumentMoniker": "Bai2_QuanLyHocSinh\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai2_QuanLyHocSinh\\Student.cs",
+              "RelativeToolTip": "Bai2_QuanLyHocSinh\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T13:07:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai3_QuanLyHoaDon\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Bai3_QuanLyHoaDon\\HoaDon.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BaiTapVeNhaT3H\\Bai3_QuanLyHoaDon\\HoaDon.cs",
+              "RelativeToolTip": "Bai3_QuanLyHoaDon\\HoaDon.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T08:18:41.896Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

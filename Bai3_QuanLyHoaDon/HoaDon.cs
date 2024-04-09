@@ -16,4 +16,12 @@ namespace Bai3_QuanLyHoaDon
         public string TenKhachHang { get; set; }   
 
     }
+    public enum FunctionApp
+    {
+        AddList = 1,
+        CancellationOfDept,
+        ShowList,
+        Exit,
+
+    }
 }

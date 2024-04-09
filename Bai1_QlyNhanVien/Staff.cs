@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bai2_QuanLyHocSinh
+namespace Bai1_QlyNhanVien
 {
-    public struct Student
+    public struct Staff
     {
         public string Name { get; set; }
         public int Age { get; set; }
         public float PointAverage { get; set; }
-        public Student(string _name, int _age, float _pointAverage)
+        public Staff(string _name, int _age, float _pointAverage)
         {
             Name = _name;
             Age = _age;
@@ -25,10 +25,9 @@ public enum FunctionApp
 {
     Add = 1,
     Show,
-    Search,
+    Sort,
+    SortCondition,
     Exit,
 
 }
-
-
 

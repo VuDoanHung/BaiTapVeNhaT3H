@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\HomeWork06\bin\Debug\HomeWork06.exe.config
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\HomeWork06\bin\Debug\HomeWork06.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\HomeWork06\bin\Debug\HomeWork06.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\HomeWork06\obj\Debug\Bai1_QlySinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\HomeWork06\obj\Debug\Bai1_QlySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\HomeWork06\obj\Debug\HomeWork06.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\HomeWork06\obj\Debug\HomeWork06.pdb
