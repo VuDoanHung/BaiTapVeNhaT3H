@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\bin\Debug\Bai2_HeThongDangKiKhoaHoc.exe.config
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\bin\Debug\Bai2_HeThongDangKiKhoaHoc.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\bin\Debug\Bai2_HeThongDangKiKhoaHoc.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\bin\Debug\CommonLibs.dll
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\bin\Debug\CommonLibs.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\obj\Debug\Bai2_HeThongDangKiKhoaHoc.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\obj\Debug\Bai2_HeThongDangKiKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\obj\Debug\Bai2_HeT.07DC0385.Up2Date
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\obj\Debug\Bai2_HeThongDangKiKhoaHoc.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai2_HeThongDangKiKhoaHoc\obj\Debug\Bai2_HeThongDangKiKhoaHoc.pdb

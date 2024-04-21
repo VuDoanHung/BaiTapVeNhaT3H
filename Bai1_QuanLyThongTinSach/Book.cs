@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bai1_QuanLyThongTinSach
 {
-    public struct Book
+    internal struct Book
     {
         public string Tittle { get; set; }
         public string Author { get; set; }
@@ -17,6 +17,10 @@ namespace Bai1_QuanLyThongTinSach
             Author = _author;
             YearOfPublication = _yearOfPublication;
         }
+        void asd()
+        {
+
+        }
     }
 
 }
@@ -26,6 +30,6 @@ public enum FunctionApp
     Show,
     Search,
     Exit,
-
+    
 }
 

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\QuanLyNhanVien_Abstract\bin\Debug\QuanLyNhanVien_Abstract.exe.config
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\QuanLyNhanVien_Abstract\bin\Debug\QuanLyNhanVien_Abstract.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\QuanLyNhanVien_Abstract\bin\Debug\QuanLyNhanVien_Abstract.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\QuanLyNhanVien_Abstract\obj\Debug\QuanLyNhanVien_Abstract.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\QuanLyNhanVien_Abstract\obj\Debug\QuanLyNhanVien_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\QuanLyNhanVien_Abstract\obj\Debug\QuanLyNhanVien_Abstract.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\QuanLyNhanVien_Abstract\obj\Debug\QuanLyNhanVien_Abstract.pdb

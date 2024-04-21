@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\bin\Debug\Bai1_QuanLySanPham.exe.config
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\bin\Debug\Bai1_QuanLySanPham.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\bin\Debug\Bai1_QuanLySanPham.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\bin\Debug\CommonLibs.dll
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\bin\Debug\CommonLibs.pdb
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\obj\Debug\Bai1_QuanLySanPham.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\obj\Debug\Bai1_QuanLySanPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\obj\Debug\Bai1_Qua.1D1B95B6.Up2Date
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\obj\Debug\Bai1_QuanLySanPham.exe
+C:\Users\Admin\source\repos\BaiTapVeNhaT3H\Bai1_QuanLySanPham\obj\Debug\Bai1_QuanLySanPham.pdb

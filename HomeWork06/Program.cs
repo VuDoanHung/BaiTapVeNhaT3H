@@ -41,7 +41,10 @@ namespace HomeWork06
                         ShowList();
                          break;
                     case (int)Funtion.AddCollection:
-                        ShowList();
+                        AddCollection();
+                        break;
+                    case (int)Funtion.GetCollection:
+                        GetCollection();
                         break;
                     case (int)Funtion.Exit:
                         Environment.Exit(0); break;
@@ -278,6 +281,29 @@ namespace HomeWork06
          
             collectionStudent.AddItem(key,student);
         }
+        static void GetCollection()
+        {
+            Dictionary<int,Student> lstStudent = collectionStudent.GetItem();
+
+            if (lstStudent.Count > 0)
+            {
+                Console.WriteLine("Student in ListStudent:");
+                foreach (var student in lstStudent)
+                {
+
+                    Console.WriteLine($"ID: {student.Value.Id}\nName Student: {student.Value.Name}\nAge Student:{student.Value.Age}");
+                    Console.WriteLine("-----------------------------");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Have no any Student in ListStudent");
+                Console.WriteLine("---------------------------------------------------");
+            }
+
+
+        }
+
     }
     public enum Funtion
     {
